@@ -13,7 +13,37 @@ const About = () => (
       whileInView="show"
       viewport={{ once: false, amount: 0.25 }}
       className={`${styles.innerWidth} mx-auto ${styles.flexCenter} flex-col`}
-    ></motion.div>
+    >
+      <TypingText title="| About Ecoverse" textStyles="text-center" />
+      <motion.p
+        variants={fadeIn("up", "tween", 0.2, 1)}
+        className="mt-[8px] font-normal sm:text-[32px] text-[20px] text-center text-secondary-white"
+      >
+        The <span className={styles.aboutBold}>Ecoverse</span> is an exciting
+        educational VR platform that lets you explore diverse ecosystems in{" "}
+        <span className={styles.aboutBold}>immersive mini-worlds</span>. Journey
+        through lush rainforests, dive into vibrant coral reefs, brave the icy
+        mountains, trek across the hot deserts, or discover the hidden nature in
+        cities. Each world offers{" "}
+        <span className={styles.aboutBold}>
+          interactive and engaging lessons
+        </span>{" "}
+        about the environment, conservation, and the natural world. The Ecoverse
+        makes learning fun and unforgettable, perfect for{" "}
+        <span className={styles.aboutBold}>
+          students, educators, and nature enthusiasts
+        </span>{" "}
+        alike. Dive into the Ecoverse and transform the way you learn about{" "}
+        <span className={styles.aboutBold}>our planet!</span>
+      </motion.p>
+
+      <motion.img
+        variants={fadeIn("up", "tween", 0.3, 1)}
+        src="/arrow-down.svg"
+        alt="arrow down"
+        className="w-[18px] h-[28px] object-contain mt-[28px]"
+      />
+    </motion.div>
   </section>
 );
 
