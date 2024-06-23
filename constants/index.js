@@ -2,27 +2,32 @@ export const exploreWorlds = [
   {
     id: 'world-1',
     imgUrl: '/planet-01.png',
-    title: 'The Hogwarts',
+    title: 'Amazon Jungle',
+    desc: 'Explore the dense and biodiversity of the Amazon rainforest. Discover the communities of plant and animal species, and learn about the impact of deforestation.',
   },
   {
     id: 'world-2',
     imgUrl: '/planet-02.png',
-    title: 'The Upside Down',
+    title: 'Coral Kingdom',
+    desc: 'Dive into the vibrant underwater world of the Great Barrier Reef. Study coral formations, marine life, and the effects of climate change on these delicate ecosystems.',
   },
   {
     id: 'world-3',
     imgUrl: '/planet-03.png',
-    title: 'Kadirojo Permai',
+    title: 'Arctic Awakenings',
+    desc: 'Journey to the Arctic to study the effects of global warming on polar ice caps. Observe wildlife while learning about glacial melting and its global impacts.',
   },
   {
     id: 'world-4',
     imgUrl: '/planet-04.png',
-    title: 'Paradise Island',
+    title: 'Savannah Safari',
+    desc: 'Traverse the African savannah to explore its unique ecosystem. Learn about predator-prey relationships, migration patterns, and important conservation efforts.',
   },
   {
     id: 'world-5',
     imgUrl: '/planet-05.png',
-    title: 'Hawkins Labs',
+    title: 'Urban Greenways',
+    desc: 'Discover the world\'s greenest cities and their role in maintaining ecological balance. Study urban biodiversity, pollution, and sustainable city planning.',
   },
 ];
 

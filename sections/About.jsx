@@ -33,8 +33,9 @@ const About = () => (
         <span className={styles.aboutBold}>
           students, educators, and nature enthusiasts
         </span>{" "}
-        alike. Dive into the Ecoverse and transform the way you learn about{" "}
-        <span className={styles.aboutBold}>our planet!</span>
+        alike. Dive into the <span className={styles.aboutBold}>Ecoverse</span>{" "}
+        and transform the way you{" "}
+        <span className={styles.aboutBold}>learn about our planet!</span>
       </motion.p>
 
       <motion.img
