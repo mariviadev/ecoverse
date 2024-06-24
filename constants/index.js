@@ -54,20 +54,20 @@ export const newFeatures = [
 
 export const insights = [
   {
-    imgUrl: "/planet-06.png",
+    imgUrl: "/classroom.jpg",
     title: "How VR is Revolutionizing Classroom Learning",
     subtitle:
       "Learn about how VR benefits interactive learning, increased student engagement, and boosts retention and understanding of complex ecological concepts.",
   },
   {
-    imgUrl: "/planet-07.png",
+    imgUrl: "/vr-lab.jpg",
     title: "Transforming Environmental Education with VR",
     subtitle:
       "See how real schools nationwide are successfully using the platform to captivate students and foster a love for environmental science.",
   },
   {
-    imgUrl: "/planet-08.png",
-    title: "Inspiring Conservation Through Education",
+    imgUrl: "/sahara.jpg",
+    title: "Inspiring Conservation Through Next-Gen Education",
     subtitle:
       "Explore how you can immerse students in realistic ecosystems, teach sustainable practices, and inspire the next generation of environmentalists.",
   },
