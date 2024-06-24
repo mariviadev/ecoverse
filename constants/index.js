@@ -1,93 +1,93 @@
 export const exploreWorlds = [
   {
-    id: 'world-1',
-    imgUrl: '/planet-01.png',
-    title: 'Amazon Jungle',
-    desc: 'Explore the dense and biodiversity of the Amazon rainforest. Discover the communities of plant and animal species, and learn about the impact of deforestation.',
+    id: "world-1",
+    imgUrl: "/amazon.jpg",
+    title: "Amazon Jungle",
+    desc: "Explore the dense and biodiversity of the Amazon rainforest. Discover the communities of plant and animal species, and learn about the impact of deforestation.",
   },
   {
-    id: 'world-2',
-    imgUrl: '/planet-02.png',
-    title: 'Coral Kingdom',
-    desc: 'Dive into the vibrant underwater world of the Great Barrier Reef. Study coral formations, marine life, and the effects of climate change on these delicate ecosystems.',
+    id: "world-2",
+    imgUrl: "/coral.jpg",
+    title: "Coral Kingdom",
+    desc: "Dive into the vibrant underwater world of the Great Barrier Reef. Study coral formations, marine life, and the effects of climate change on these delicate ecosystems.",
   },
   {
-    id: 'world-3',
-    imgUrl: '/planet-03.png',
-    title: 'Arctic Awakenings',
-    desc: 'Journey to the Arctic to study the effects of global warming on polar ice caps. Observe wildlife while learning about glacial melting and its global impacts.',
+    id: "world-3",
+    imgUrl: "/arctic.jpg",
+    title: "Arctic Awakenings",
+    desc: "Journey to the Arctic to study the effects of global warming on polar ice caps. Observe wildlife while learning about glacial melting and its global impacts.",
   },
   {
-    id: 'world-4',
-    imgUrl: '/planet-04.png',
-    title: 'Savannah Safari',
-    desc: 'Traverse the African savannah to explore its unique ecosystem. Learn about predator-prey relationships, migration patterns, and important conservation efforts.',
+    id: "world-4",
+    imgUrl: "/savannah.jpg",
+    title: "Savannah Safari",
+    desc: "Traverse the African savannah to explore its unique ecosystem. Learn about predator-prey relationships, migration patterns, and important conservation efforts.",
   },
   {
-    id: 'world-5',
-    imgUrl: '/planet-05.png',
-    title: 'Urban Greenways',
-    desc: 'Discover the world\'s greenest cities and their role in maintaining ecological balance. Study urban biodiversity, pollution, and sustainable city planning.',
+    id: "world-5",
+    imgUrl: "/cities.jpg",
+    title: "Urban Greenways",
+    desc: "Discover the world's greenest cities and their role in maintaining ecological balance. Study urban biodiversity, pollution, and sustainable city planning.",
   },
 ];
 
 export const startingFeatures = [
-  'Find a world that suits you and you want to enter',
-  'Enter the world by reading basmalah to be safe',
-  'No need to beat around the bush, just stay on the gas and have fun',
+  "Install the Ecoverse app on your PC or VR headset",
+  "Create an account and complete the setup process",
+  "Choose your favourite world and start exploring",
 ];
 
 export const newFeatures = [
   {
-    imgUrl: '/vrpano.svg',
-    title: 'A new world',
+    imgUrl: "/headset.svg",
+    title: "Hands-On VR Learning",
     subtitle:
-        'we have the latest update with new world for you to try never mind',
+      "Practical and interactive VR experiences that make learning more engaging and enjoyable, transporting students to places they could only imagine.",
   },
   {
-    imgUrl: '/headset.svg',
-    title: 'More realistic',
+    imgUrl: "/vrpano.svg",
+    title: "Expert-Designed Curriculum",
     subtitle:
-        'In the latest update, your eyes are narrow, making the world more realistic than ever',
+      "Courses are crafted by leading educators and environmental scientists, ensuring high-quality, relevant, and impactful educational content.",
   },
 ];
 
 export const insights = [
   {
-    imgUrl: '/planet-06.png',
-    title: 'The launch of the Metaverse makes Elon musk ketar-ketir',
+    imgUrl: "/planet-06.png",
+    title: "How VR is Revolutionizing Classroom Learning",
     subtitle:
-        'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
+      "Learn about how VR benefits interactive learning, increased student engagement, and boosts retention and understanding of complex ecological concepts.",
   },
   {
-    imgUrl: '/planet-07.png',
-    title: '7 tips to easily master the madness of the Metaverse',
+    imgUrl: "/planet-07.png",
+    title: "Transforming Environmental Education with VR",
     subtitle:
-        'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
+      "See how real schools nationwide are successfully using the platform to captivate students and foster a love for environmental science.",
   },
   {
-    imgUrl: '/planet-08.png',
-    title: 'With one platform you can explore the whole world virtually',
+    imgUrl: "/planet-08.png",
+    title: "Inspiring Conservation Through Education",
     subtitle:
-        'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
+      "Explore how you can immerse students in realistic ecosystems, teach sustainable practices, and inspire the next generation of environmentalists.",
   },
 ];
 
 export const socials = [
   {
-    name: 'twitter',
-    url: '/twitter.svg',
+    name: "twitter",
+    url: "/twitter.svg",
   },
   {
-    name: 'linkedin',
-    url: '/linkedin.svg',
+    name: "linkedin",
+    url: "/linkedin.svg",
   },
   {
-    name: 'instagram',
-    url: '/instagram.svg',
+    name: "instagram",
+    url: "/instagram.svg",
   },
   {
-    name: 'facebook',
-    url: '/facebook.svg',
+    name: "facebook",
+    url: "/facebook.svg",
   },
 ];
