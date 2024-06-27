@@ -17,7 +17,7 @@ const Navbar = () => (
         alt="search"
         className="w-[24px] h-[24px] object-contain"
       />
-      <div className="flex">
+      <div className="flex flex-row items-center">
         <img src="/logo.svg" alt="logo" className="w-[24px] h-[24px] mr-2" />
         <h2 className="font-extrabold text-[24px] leading-[30px] text-white">
           ECOVERSE
