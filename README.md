@@ -1,34 +1,37 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Ecoverse | VR EdTech Marketing Page
+![dev-ecoverse](https://github.com/user-attachments/assets/b8728aa8-cf2c-4f27-a7d3-95e7143503f9)
+
+## Introduction
+Ecoverse is a marketing landing page for a fictional VR educational technology platform that I conceptualized with a little help from ChatGPT. Developed as a personal project, this project demonstrates the application of newly gained modern web skills and 3D animations. The project was guided by a tutorial, however I revamped the content and design to showcase my personal ability to create engaging and dynamic web experiences.
+
+## Tech Stack
+- **React.js** 
+- **Next.js**
+- **Tailwind CSS**
+- **Framer Motion**
+
+## Features
+- **Conceptual Design:** Showcases a fictional VR educational platform created from a collaboration between ChatGPT and my mind.
+- **Dynamic Animations:** Utilizes 3D animations to enhance user engagement.
+- **Modern Web Practices:** Implemented with the latest web technologies for a responsive and interactive experience.
 
 ## Getting Started
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/mariviadev/ecoverse.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd ecoverse
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+4. Start the development server:
+   ```bash
+   npm run dev
+   ```
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Acknowledgments
+Special thanks to the JavaScript Mastery tutorial that provided the foundational knowledge for implementing 3D animations and advanced web skills.
